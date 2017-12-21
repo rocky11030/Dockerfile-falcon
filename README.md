@@ -10,6 +10,7 @@
 * 拷贝需要执行的脚本，包括启动脚本
 * 使用了本地的ubuntu源和http下载的open-falcon安装包,具体需要手动上传
 * 安装wget git vim和redis-server，然后解压open-falcon的安装包
+* version 1.1的版本把mail和urlook包含进来,需要启动之前分别设置报警邮箱
 
 第二步: 安装
 --------------
